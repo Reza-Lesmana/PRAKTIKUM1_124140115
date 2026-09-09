@@ -11,7 +11,7 @@ Aplikasi ini dibuat menggunakan Kotlin Multiplatform untuk menampilkan informasi
 
 ## Screenshot Aplikasi
 
-![Screenshot Aplikasi](Screenshot 2026-09-09 213823.png)
+![Screenshot Aplikasi](Screenshot%202026-09-09%20213823.png)
 
 ## Teknologi yang Digunakan
 
