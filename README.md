@@ -1,3 +1,30 @@
+# Praktikum 1 KMP Android Application
+
+## Identitas Mahasiswa
+
+Nama: Reza Lesmana Julgi  
+NIM: 124140115  
+
+## Deskripsi Aplikasi
+
+Aplikasi ini dibuat menggunakan Kotlin Multiplatform untuk menampilkan informasi sederhana berupa nama mahasiswa, NIM, dan informasi platform Android yang digunakan.
+
+## Screenshot Aplikasi
+
+![Screenshot Aplikasi](screenshot.png)
+
+## Teknologi yang Digunakan
+
+- Kotlin
+- Kotlin Multiplatform
+- Android Studio
+- Jetpack Compose
+
+## Repository
+
+GitHub:
+https://github.com/Reza-Lesmana/PRAKTIKUM1_124140115
+
 This is a Kotlin Multiplatform project targeting Android, iOS.
 
 * [/iosApp](./iosApp/iosApp) contains an iOS application. Even if you’re sharing your UI with Compose Multiplatform,
